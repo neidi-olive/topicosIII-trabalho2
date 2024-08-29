@@ -1,11 +1,11 @@
 # Tela de Login
 
-![image](./assets/login)
+![image](./assets/login.png)
 
 # Tela Home
 
-![image](./assets/home)
+![image](./assets/home.png)
 
 # Tela de Adicionar gastos
 
-![image](./assets/gastos)
+![image](./assets/gastos.png)
