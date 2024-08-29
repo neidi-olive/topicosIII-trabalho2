@@ -93,6 +93,7 @@ export default function Auth() {
                 if(!error){
                   navigation.navigate('Home');
                 }
+                console.error(error)
               }
               
             } />

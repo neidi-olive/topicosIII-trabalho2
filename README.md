@@ -1,11 +1,11 @@
 # Tela de Login
 
-![image](./assets/NOMEDAIMAGEM)
+![image](./assets/login)
 
 # Tela Home
 
-![image](./assets/NOMEDAIMAGEM)
+![image](./assets/home)
 
 # Tela de Adicionar gastos
 
-![image](./assets/NOMEDAIMAGEM)
+![image](./assets/gastos)
